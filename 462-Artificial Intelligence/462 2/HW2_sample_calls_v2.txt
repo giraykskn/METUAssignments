@@ -1,0 +1,5 @@
+>>> theorem_prover(["p(A,f(t))", "q(z)+!p(z,f(B))", "!q(y)+r(y)"],["!r(A)"])
+('yes', ['p(A,f(t))$q(z)+!p(z,f(B))$q(A)', 'q(A)$!q(y)+r(y)$r(A)', 'r(A)$!r(A)$empty'])
+
+>>> theorem_prover(["p(A,f(t))", "q(z)+!p(z,f(B))", "q(y)+r(y)"],["!r(A)"])
+('no', ['p(A,f(t))$q(z)+!p(z,f(B))$q(A)', 'q(y)+r(y)$!r(A)$q(A)'])

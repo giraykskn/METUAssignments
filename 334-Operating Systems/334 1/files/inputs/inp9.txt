@@ -1,0 +1,25 @@
+15 15
+8 14
+7 7
+./player 3 1 0
+20
+./monster a 1 13 5 0 1 2
+./monster b 1 12 5 0 1 2
+./monster c 1 11 5 0 1 2
+./monster d 1 10 40 0 4 3
+./monster e 2 11 5 0 1 2
+./monster f 13 13 40 0 4 3
+./monster g 13 12 5 0 1 2
+./monster h 13 11 40 0 4 3
+./monster j 13 10 5 0 1 2
+./monster k 12 11 40 0 4 3
+./monster l 9 2 5 0 1 2
+./monster q 11 2 40 0 4 3
+./monster w 10 2 5 0 1 2
+./monster e 9 9 40 0 4 3
+./monster r 7 8 5 0 1 2
+./monster y 10 13 5 0 1 2
+./monster u 7 3 40 0 4 3
+./monster i 8 3 5 0 1 2
+./monster z 10 3 40 0 4 3
+./monster 0 10 7 40 0 4 3

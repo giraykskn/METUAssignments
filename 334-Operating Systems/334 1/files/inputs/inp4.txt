@@ -1,0 +1,13 @@
+15 15
+8 14
+6 6
+./player 3 1 4
+8
+./monster a 9 9 5 5 1 2
+./monster b 1 1 40 30 4 3
+./monster c 3 3 40 30 4 3
+./monster d 5 2 40 30 4 3
+./monster e 13 11 40 30 4 2
+./monster c 7 8 40 30 4 3
+./monster d 12 13 40 30 4 3
+./monster e 13 12 40 30 4 2
